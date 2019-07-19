@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: https://elrakabawi.github.io/entropie//sitemap.xml
+Sitemap: https://elrakabawi.github.io/entropie/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
